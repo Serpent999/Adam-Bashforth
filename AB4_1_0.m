@@ -1,4 +1,4 @@
-%Project :Numerical Approximation using Adam-Bashforth method 
+%Project :Numerical Approximation using Adam-Bashforth fourth order method 
 %Engineer : Nikhil.P.Lokhande
 %email:nikhil.l.1@aol.com
 
